@@ -2,7 +2,6 @@ const h = extend(UnitType, "h", {
     health: 1000,
     hitSize: 20,
     speed: 5,
-    type: flying,
     flying: true,
     targetAir: true,
     range: 300,
