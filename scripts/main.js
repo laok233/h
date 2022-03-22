@@ -1,0 +1,2 @@
+require("h");
+require("weapon");
