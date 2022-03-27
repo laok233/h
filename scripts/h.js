@@ -5,7 +5,6 @@ const h = extend(UnitType, "h", {
     flying: true,
     targetAir: true,
     range: 300,
-    research: air-factory
 })
 
 h.constructor = () => extend(MechUnit, {});
